@@ -831,7 +831,7 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "ItemsLayer",
+          "layer": "",
           "name": "NewText2",
           "persistentUuid": "812694ac-a0e0-415f-a7d8-c429221fdf9b",
           "width": 0,
